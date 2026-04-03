@@ -29,3 +29,7 @@
 *Github is a platform that helps developers collaborate on projects.
 *Git is a tool that helps developers manage their code.
 *Github is a platform that helps developers manage their code.
+
+### Names of Mentees
+*Tabe Rickson
+*Tebogo
